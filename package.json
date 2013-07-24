@@ -1,0 +1,9 @@
+{
+  "name": "RedProxy",
+  "description": "A web proxy project",
+  "author": "Seth Lakowske <lakowske@gmail.com>",
+  "dependencies": {
+    "http-proxy": "0.10.x"
+  },
+  "engine": "node >= 0.10.0"
+}
